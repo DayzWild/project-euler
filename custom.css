@@ -36,7 +36,7 @@ input, button {
     margin-bottom: 20px;
 }
 
-#solution {
+.solution {
     display: block;
     margin-top: 20px;
 }
